@@ -1,7 +1,7 @@
 <#
 Function Examples that can be imported using PowerShell Dot Sourcing
 
-Assumign you saved this script to the C:\Scripts Directory this is how you would ingest the scripts. 
+Assuming you saved this script to the C:\Scripts Directory this is how you would ingest the scripts. 
 
 set-location -path C:\Scripts
 Now we use Dot Sourcing to import all the functions into global memory. 
